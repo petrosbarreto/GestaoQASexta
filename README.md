@@ -1,1 +1,8 @@
 # GestaoQASexta
+
+
+
+
+
+
+#Petros Passoua aqui
