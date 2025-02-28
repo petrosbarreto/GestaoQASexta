@@ -1,1 +1,4 @@
-# GestaoQASexta
+# GestaoQASexta                        
+
+#joão vitor
+#isaias marcelino 
