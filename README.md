@@ -1,1 +1,7 @@
 # GestaoQASexta
+
+
+
+
+
+#arnold esteve aqui
