@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Design Responsivo</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .item {
+            flex: 1 1 300px; /* Ajuste flexível */
+            padding: 20px;
+            background-color: lightblue;
+            border: 2px solid #0077cc;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        @media screen and (max-width: 600px) {
+            .container {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Exemplo de Design Responsivo</h1>
+    <p>Redimensione a tela para ver a adaptação!</p>
+
+    <div class="container">
+        <div class="item">Item 1</div>
+        <div class="item">Item 2</div>
+        <div class="item">Item 3</div>
+    </div>
+
+</body>
+</html>
