@@ -1,1 +1,11 @@
 # GestaoQASexta
+
+
+
+
+
+
+
+
+
+# Guilherme aqui
