@@ -1,1 +1,7 @@
-# GestaoQASexta
+
+
+
+
+
+#Tamara passou aqui
+
