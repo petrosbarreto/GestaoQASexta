@@ -1,7 +1,5 @@
-# GestaoQASexta
+# GestaoQASexta                        
 
+#joão vitor
+#isaias marcelino 
 
-
-
-
-#arnold esteve aqui
